@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-learnapp-dev-cf3ac-authRole",
+      "UnauthRoleArn": "arn:aws:iam::809593883659:role/amplify-learnapp-dev-cf3ac-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::809593883659:role/amplify-learnapp-dev-cf3ac-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-learnapp-dev-cf3ac-deployment",
+      "UnauthRoleName": "amplify-learnapp-dev-cf3ac-unauthRole",
+      "StackName": "amplify-learnapp-dev-cf3ac",
+      "StackId": "arn:aws:cloudformation:us-east-1:809593883659:stack/amplify-learnapp-dev-cf3ac/d79311f0-5816-11f0-b835-0affffaf7789",
+      "AmplifyAppId": "d16dg0szfsbhdm"
+    },
+    "categories": {
+      "auth": {
+        "learnappa96feb2f": {}
+      }
+    }
+  }
+}
